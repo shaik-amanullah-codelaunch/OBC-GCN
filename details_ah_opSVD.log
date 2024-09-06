@@ -1,0 +1,2 @@
+2024-09-06 16-40-16
+obic.py --model gcn_cheby --npz data/ah/ah.npz --logfile details_ah_opSVD.log --resfile results_ah_opSVD.log --nodes 64 --layers 3 --dropout 0.3 --max_degree 1 --svd 0
